@@ -124,8 +124,8 @@
 <details>
 <summary><kbd>&nbsp;loop&nbsp;</kbd></summary>
 <br>
-<div align="center">
-
+<div align="left">
+    
 ```rust
 struct Vzexg {
     code: bool,
@@ -148,11 +148,8 @@ fn main() {
 
 <table border="0" cellpadding="4" cellspacing="4">
 <tr>
-<td><kbd><a href="https://github.com/vzexg-2">github</a></kbd></td>
-<td><img src="https://img.shields.io/badge/-·-222?style=flat-square&color=222&labelColor=222" /></td>
-<td><kbd>open to collab</kbd></td>
-<td><img src="https://img.shields.io/badge/-·-222?style=flat-square&color=222&labelColor=222" /></td>
-<td><kbd>privacy first</kbd></td>
+<td><kbd><a href="https://github.com/moLvon">github</a></kbd></td>
+<td><kbd>a chill guy fr</kbd></td>
 </tr>
 </table>
 
