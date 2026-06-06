@@ -8,8 +8,8 @@
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/os-linux-111?style=flat-square&logo=linux&logoColor=888" /></td>
 <td align="center"><img src="https://img.shields.io/badge/status-building-111?style=flat-square" /></td>
-<td align="center"><img src="https://img.shields.io/badge/focus-android_%26_roblox-111?style=flat-square" /></td>
-<td align="center"><img src="https://img.shields.io/badge/privacy-first-111?style=flat-square" /></td>
+<td align="center"><img src="https://img.shields.io/badge/focus-android_%20+_others-111?style=flat-square" /></td>
+<td align="center"><img src="https://img.shields.io/badge/privacy-prioritized-111?style=flat-square" /></td>
 </tr>
 </table>
 
@@ -153,6 +153,6 @@ fn main() {
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=28&text=always%20building.%20never%20stopping.&fontSize=10&fontColor=2a2a2a&fontAlign=50&fontAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=28&text=always%20building.%20never%20stopping.&fontSize=30&fontColor=2a2a2a&fontAlign=50&fontAlignY=55&animation=fadeIn" width="100%" />
 
 </div>
