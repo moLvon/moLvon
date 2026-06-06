@@ -1,17 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=0&pause=0&color=FFFFFF&center=true&vCenter=true&repeat=false&width=200&height=46&lines=vzexg" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=3200&pause=1400&color=555555&center=true&vCenter=true&width=440&height=20&lines=developer+%C2%B7+building+random+things;probably+debugging+right+now;always+in+the+loop%3B" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=90&text=—moLvon—&fontAlign=50&fontAlignY=55&fontSize=52&fontColor=ffffff&desc=dev&descAlign=50&descAlignY=80&descSize=16&descColor=555555&animation=fadeIn" width="100%" />
 
 <br>
 
-<table border="0" cellpadding="3" cellspacing="6">
+<table border="0" cellpadding="3" cellspacing="5">
 <tr>
-<td><img src="https://img.shields.io/badge/os-linux-111111?style=flat-square&logoColor=888" /></td>
-<td><img src="https://img.shields.io/badge/status-building-111111?style=flat-square" /></td>
-<td><img src="https://img.shields.io/badge/focus-android_%26_roblox-111111?style=flat-square" /></td>
-<td><img src="https://img.shields.io/badge/privacy-first-111111?style=flat-square" /></td>
+<td align="center"><img src="https://img.shields.io/badge/os-linux-111?style=flat-square&logo=linux&logoColor=888" /></td>
+<td align="center"><img src="https://img.shields.io/badge/status-building-111?style=flat-square" /></td>
+<td align="center"><img src="https://img.shields.io/badge/focus-android_%26_roblox-111?style=flat-square" /></td>
+<td align="center"><img src="https://img.shields.io/badge/privacy-first-111?style=flat-square" /></td>
 </tr>
 </table>
 
@@ -21,9 +19,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,kotlin,lua,java,nodejs&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=python,kotlin,lua,java,nodejs&theme=dark&perline=5" height="52" />
 
-<img src="https://skillicons.dev/icons?i=linux,git,vscode,idea,androidstudio&theme=dark&perline=5" />
+<br>
+
+<img src="https://skillicons.dev/icons?i=linux,git,vscode,idea,androidstudio&theme=dark&perline=5" height="52" />
 
 </div>
 
@@ -100,19 +100,19 @@
 <table border="0" width="100%" cellpadding="6" cellspacing="0">
 <tr>
 <td width="33%" align="center" valign="top">
-<img src="https://img.shields.io/badge/onst-111111?style=flat-square&logo=android&logoColor=888" /><br>
+<img src="https://img.shields.io/badge/Route%2B-111?style=flat-square&logo=javascript&logoColor=888" /><br>
+<img src="https://img.shields.io/badge/anti--redirect_%7C_anti--track-0d0d0d?style=flat-square" /><br>
+<img src="https://img.shields.io/badge/anti--fingerprint_userscript-0d0d0d?style=flat-square" />
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://img.shields.io/badge/onst-111?style=flat-square&logo=android&logoColor=888" /><br>
 <img src="https://img.shields.io/badge/osint_%7C_recon_%7C_breach-0d0d0d?style=flat-square" /><br>
 <img src="https://img.shields.io/badge/kotlin_%C2%B7_programmatic_ui-0d0d0d?style=flat-square" />
 </td>
 <td width="33%" align="center" valign="top">
-<img src="https://img.shields.io/badge/AethX-111111?style=flat-square&logo=lua&logoColor=888" /><br>
+<img src="https://img.shields.io/badge/AethX-111?style=flat-square&logo=lua&logoColor=888" /><br>
 <img src="https://img.shields.io/badge/anti--cheat_scanner-0d0d0d?style=flat-square" /><br>
 <img src="https://img.shields.io/badge/lua_%C2%B7_gc_scanning-0d0d0d?style=flat-square" />
-</td>
-<td width="33%" align="center" valign="top">
-<img src="https://img.shields.io/badge/Browser.kt-111111?style=flat-square&logo=android&logoColor=888" /><br>
-<img src="https://img.shields.io/badge/anti--fingerprint_webview-0d0d0d?style=flat-square" /><br>
-<img src="https://img.shields.io/badge/ua_rotation_%C2%B7_canvas_noise-0d0d0d?style=flat-square" />
 </td>
 </tr>
 </table>
@@ -125,17 +125,21 @@
 <summary><kbd>&nbsp;loop&nbsp;</kbd></summary>
 <br>
 <div align="center">
-<table border="0" cellpadding="2" cellspacing="0">
-<tr><td><img src="https://img.shields.io/badge/struct_Vzexg_{-161b22?style=flat-square&logo=rust&logoColor=888&color=161b22&labelColor=161b22" /></td></tr>
-<tr><td><img src="https://img.shields.io/badge/&nbsp;&nbsp;code%3A_bool%2C-161b22?style=flat-square&color=161b22&labelColor=161b22" /></td></tr>
-<tr><td><img src="https://img.shields.io/badge/&nbsp;&nbsp;sleep%3A_bool%2C-161b22?style=flat-square&color=161b22&labelColor=161b22" /></td></tr>
-<tr><td><img src="https://img.shields.io/badge/}-161b22?style=flat-square&color=161b22&labelColor=161b22" /></td></tr>
-<tr><td><img src="https://img.shields.io/badge/fn_main()_{-161b22?style=flat-square&logo=rust&logoColor=888&color=161b22&labelColor=161b22" /></td></tr>
-<tr><td><img src="https://img.shields.io/badge/&nbsp;&nbsp;loop_{_code();_}-161b22?style=flat-square&color=161b22&labelColor=161b22" /></td></tr>
-<tr><td><img src="https://img.shields.io/badge/}-161b22?style=flat-square&color=161b22&labelColor=161b22" /></td></tr>
-</table>
+
+```rust
+struct Vzexg {
+    code: bool,
+    sleep: bool,
+}
+
+fn main() {
+    loop {
+        code();
+    }
+}
+```
+
 </div>
-<br>
 </details>
 
 ---
@@ -145,13 +149,13 @@
 <table border="0" cellpadding="4" cellspacing="4">
 <tr>
 <td><kbd><a href="https://github.com/vzexg-2">github</a></kbd></td>
-<td><img src="https://img.shields.io/badge/·-333?style=flat-square&color=222&labelColor=222" /></td>
+<td><img src="https://img.shields.io/badge/-·-222?style=flat-square&color=222&labelColor=222" /></td>
 <td><kbd>open to collab</kbd></td>
-<td><img src="https://img.shields.io/badge/·-333?style=flat-square&color=222&labelColor=222" /></td>
+<td><img src="https://img.shields.io/badge/-·-222?style=flat-square&color=222&labelColor=222" /></td>
 <td><kbd>privacy first</kbd></td>
 </tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=10&duration=4000&pause=700&color=2a2a2a&center=true&vCenter=true&width=400&height=18&lines=always+building.+never+stopping.;loop+%7B+code()%3B+%7D;%2F%2F+no+break+statement" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=28&text=always%20building.%20never%20stopping.&fontSize=10&fontColor=2a2a2a&fontAlign=50&fontAlignY=55&animation=fadeIn" width="100%" />
 
 </div>
